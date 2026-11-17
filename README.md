@@ -115,18 +115,17 @@ Proof: prompts in [session.md](session.md), rules in [AGENTS.md](AGENTS.md), wro
 
 ## Time spent
 
-Total: 3 hours.
+Total: 3+ hours.
 
-- Recon: 30 min
+- Recon: 30+ min
 - Manual: 25 min
 - Plan: 20 min
 - Auto: 45 min
 - Bugs + UX: 15 min
 - AI log: 10 min
-- Report + README: 25 min
-- AGENTS + setup notes: 10 min included in recon
+- Report + README: 25+ min
 
-Setup with Fedora fixes is extra, not counted. Suite runs in ~50 sec.
+Setup and environment: 1 hour, counted separately. Suite runs in ~60s.
 
 ## Limits and next steps
 
