@@ -1,7 +1,7 @@
 # AI accuracy log — recon + test runs
 
 AI was fast at mapping, but often wrong on clicks. Manual runs are truth.
-7 claims were correct and became bugs. 8 were wrong and were fixed before final docs.
+8 claims were correct, 8 were wrong, 2 were partly (18 rows). Fixed before final docs.
 Main lesson: always check cookie and read values back, never trust one tool output.
 
 | # | Claim | How checked | Verdict | Impact |

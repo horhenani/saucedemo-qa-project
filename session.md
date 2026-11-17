@@ -50,7 +50,7 @@ Prompt:
 Make docs/ai-accuracy-log.md from recon + runs. Table: claim, check, verdict, impact. Include CLI flakes and wrong calls.
 
 Summary:
-18 rows. 7 correct, 8 wrong, rest partly. Wrong menu and session claims fixed.
+18 rows. 8 correct, 8 wrong, 2 partly. Wrong menu and session claims fixed.
 
 ## 8. Report and README
 Prompt:
