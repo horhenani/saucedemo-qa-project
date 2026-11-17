@@ -1,0 +1,28 @@
+## Latest page snapshot
+uid=29_0 RootWebArea "Swag Labs" url="https://www.saucedemo.com/checkout-complete.html"
+  uid=29_1 banner
+    uid=29_2 button "Open Menu"
+    uid=29_3 image "Open Menu" url="data:image/svg+xml,%3csvg%20width='32'%20height='32'%20viewBox='0%200%2016%2016'%20fill='none'%20xmlns='http://www.w3.org/2000/svg'%3e%3cpath%20fill-rule='evenodd'%20clip-rule='evenodd'%20d='M0.666626%202.83333C0.666626%202.3731%201.00863%202%201.43051%20... <truncated>"
+    uid=29_4 navigation
+      uid=29_5 button "All Items" focusable focused
+      uid=29_6 button "Dynamic Catalog" expandable
+      uid=29_7 link "About" url="https://saucelabs.com/"
+      uid=29_9 button "Logout"
+      uid=29_10 button "Reset App State"
+    uid=29_11 button "Close Menu"
+    uid=29_12 image "Close Menu" url="data:image/svg+xml,%3csvg%20width='32'%20height='32'%20viewBox='0%200%2016%2016'%20fill='none'%20xmlns='http://www.w3.org/2000/svg'%3e%3cpath%20fill-rule='evenodd'%20clip-rule='evenodd'%20d='M2.22528%202.22552C2.55072%201.90009%203.07835%201.90009%203.403... <truncated>"
+    uid=29_13 "Swag Labs"
+    uid=29_14 button "Cart, empty"
+    uid=29_15 "Checkout: Complete!"
+  uid=29_16 main
+    uid=29_17 image "Pony Express" url="https://www.saucedemo.com/assets/checkmark-VLWQafip.png"
+    uid=29_18 heading "Thank you for your order!" level="2"
+    uid=29_19 "Your order has been dispatched, and will arrive just as fast as the pony can get there!"
+    uid=29_20 button "Back Home"
+  uid=29_21 contentinfo
+    uid=29_22 link "X" url="https://x.com/saucelabs"
+    uid=29_24 link "Facebook" url="https://www.facebook.com/saucelabs"
+    uid=29_26 link "LinkedIn" url="https://www.linkedin.com/company/sauce-labs/"
+    uid=29_28 "© "
+    uid=29_29 "2026"
+    uid=29_30 " Sauce Labs. All Rights Reserved. Terms of Service | Privacy Policy"

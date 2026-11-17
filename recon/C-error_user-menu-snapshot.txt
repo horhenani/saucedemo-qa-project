@@ -1,0 +1,30 @@
+## Latest page snapshot
+uid=21_0 RootWebArea "Swag Labs" url="https://www.saucedemo.com/checkout-step-one.html"
+  uid=21_1 banner
+    uid=21_2 button "Open Menu"
+    uid=21_3 image "Open Menu" url="data:image/svg+xml,%3csvg%20width='32'%20height='32'%20viewBox='0%200%2016%2016'%20fill='none'%20xmlns='http://www.w3.org/2000/svg'%3e%3cpath%20fill-rule='evenodd'%20clip-rule='evenodd'%20d='M0.666626%202.83333C0.666626%202.3731%201.00863%202%201.43051%20... <truncated>"
+    uid=25_0 navigation
+      uid=25_1 button "All Items" focusable focused
+      uid=25_2 button "Dynamic Catalog" expandable
+      uid=25_3 link "About" url="https://saucelabs.com/"
+      uid=25_5 button "Logout"
+      uid=25_6 button "Reset App State"
+    uid=25_7 button "Close Menu"
+    uid=25_8 image "Close Menu" url="data:image/svg+xml,%3csvg%20width='32'%20height='32'%20viewBox='0%200%2016%2016'%20fill='none'%20xmlns='http://www.w3.org/2000/svg'%3e%3cpath%20fill-rule='evenodd'%20clip-rule='evenodd'%20d='M2.22528%202.22552C2.55072%201.90009%203.07835%201.90009%203.403... <truncated>"
+    uid=21_4 "Swag Labs"
+    uid=21_5 button "Cart, empty"
+    uid=21_6 "Checkout: Your Information"
+  uid=21_7 main
+    uid=21_8 form "Checkout information"
+      uid=21_9 textbox "First Name"
+      uid=21_10 textbox "Last Name"
+      uid=21_11 textbox "Zip/Postal Code"
+      uid=21_12 button "Cancel"
+      uid=21_13 button "Continue"
+  uid=21_14 contentinfo
+    uid=21_15 link "X" url="https://x.com/saucelabs"
+    uid=21_17 link "Facebook" url="https://www.facebook.com/saucelabs"
+    uid=21_19 link "LinkedIn" url="https://www.linkedin.com/company/sauce-labs/"
+    uid=21_21 "© "
+    uid=21_22 "2026"
+    uid=21_23 " Sauce Labs. All Rights Reserved. Terms of Service | Privacy Policy"

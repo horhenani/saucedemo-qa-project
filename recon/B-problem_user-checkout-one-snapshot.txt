@@ -1,0 +1,23 @@
+## Latest page snapshot
+uid=18_0 RootWebArea "Swag Labs" url="https://www.saucedemo.com/checkout-step-one.html"
+  uid=18_1 banner
+    uid=18_2 button "Open Menu"
+    uid=18_3 image "Open Menu" url="data:image/svg+xml,%3csvg%20width='32'%20height='32'%20viewBox='0%200%2016%2016'%20fill='none'%20xmlns='http://www.w3.org/2000/svg'%3e%3cpath%20fill-rule='evenodd'%20clip-rule='evenodd'%20d='M0.666626%202.83333C0.666626%202.3731%201.00863%202%201.43051%20... <truncated>"
+    uid=18_4 "Swag Labs"
+    uid=18_5 button "Cart, empty"
+    uid=18_6 "Checkout: Your Information"
+  uid=18_7 main
+    uid=18_8 form "Checkout information"
+      uid=18_9 textbox "First Name"
+      uid=18_10 textbox "Last Name"
+      uid=18_11 textbox "Zip/Postal Code"
+      uid=18_12 button "Cancel"
+      uid=18_13 button "Continue"
+  uid=18_14 contentinfo
+    uid=18_15 link "X" url="https://x.com/saucelabs"
+    uid=18_17 link "Facebook" url="https://www.facebook.com/saucelabs"
+    uid=18_19 link "LinkedIn" url="https://www.linkedin.com/company/sauce-labs/"
+    uid=18_21 "© "
+    uid=18_22 "2026"
+    uid=18_23 " Sauce Labs. All Rights Reserved. Terms of Service | Privacy Policy"
+
